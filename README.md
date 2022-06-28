@@ -8,6 +8,6 @@ F4NiX/F4NiX is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-# Quem sou eu?
+# Entre em contato!
 
-*Nasci em Irati-PR, tenho 15 anos *
+*contatogithubf4nix@gmail.com*
