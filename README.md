@@ -1,7 +1,7 @@
-# about me
-- 👋 Hi, I’m F4NiX
-- 👀 I’m interested in study programation
-- 🌱 I’m currently learning java script
+# Sobre mim:
+- 👋 Olá, sou F4NiX
+- 👀 Estou interessado em aprender programção
+- 🌱 Atualmente estou aprendendo javaScript
 - 🇧🇷 Sou Brasileiro
 <!---
 F4NiX/F4NiX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
